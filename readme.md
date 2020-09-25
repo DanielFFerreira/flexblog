@@ -4,11 +4,7 @@
 
 <h1 align="center">
     CSS Flexbox - ORIGAMID (Estudo)
-</h2>
- 
- <p align="center">
-  Este é um curso de Bootstrap 4. Nele você irá aprender o básico para conseguir</br>utilizar os principais componentes do Framework.
-</p>
+</h1>
 
 <p align="center">
   No curso de CSS Flexbox você irá aprender como criar um layout responsivo no CSS utilizando apenas as propriedades do Flexbox. Assim você não precisará mais definir valores fixos e flutuar elementos para criar o seu layout.
